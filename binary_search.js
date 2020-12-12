@@ -22,7 +22,6 @@ function binarySearch(userArray, userNumber) {
       highIndex = middleIndex - 1;
     } else {
       // Returning the index spot of the number in the array
-      // middleIndex = middleIndex ;
       let answer = middleIndex;
       return answer;
     }
